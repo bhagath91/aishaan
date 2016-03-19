@@ -1,0 +1,330 @@
+/*
+ *   Important Information about this CSS File
+ *
+ * - Do not delete or rename this file, if you do not use it leave it blank (delete
+ *   everything) and the file will be skipped when you enable Production Mode in
+ *   the Global theme settings.
+ *
+ * - Read the _README file in this directory, it contains useful help and other information.
+ */
+
+/* Increase the body font size on small touch devices */
+body {
+  font-size: 100%;
+}
+
+/* =============================================================================
+ *   Mobile Menu Toggle
+ *   See your theme settings extensions for how to enable the menu toggle.
+ *   These are example styles for the menu toggle menu, you can use these in the
+ *   relevant responsive stylesheets as required. Modify to suit your design.
+ * ========================================================================== */
+/* The toggle link */
+.at-mt .at-menu-toggle h2 {
+  margin-bottom: 5px;
+}
+
+.at-mt .at-menu-toggle h2 a {
+  background: #eee;
+  border: 2px solid #ccc;
+  padding: 2px 10px;
+}
+
+/* Menu items */
+.at-mt .at-menu-toggle ul.menu li a {
+  background: #eee;
+  border-bottom: 1px solid #fff;
+}
+
+
+
+	    display: table-cell;
+    vertical-align: middle;
+	float:left;
+}
+
+.contact_content{
+	
+	    display: table-cell;
+    vertical-align: middle;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.contact_content p{
+	
+	max-width:100%;
+	width: 100%;
+    float: left;
+}
+
+#content #node-11{
+	
+	margin:0 auto;
+	width:90%;
+}
+
+body.page-node-11 ul{
+	
+	    padding: 0px 0px 0 28px;
+}
+
+body.page-node-11 li {
+	
+list-style-image:url('images/cloud_image.png');	
+margin: 1em 0;
+	
+}
+
+#block-block-5 li{
+	list-style-image:none;
+	list-style-type:square;
+	line-height:2.5em;
+	margin:0;
+}
+
+.ligherfont{
+	
+	font-weight:lighter;
+}
+
+#main-content #main-content-header{
+	
+	text-align:center;
+}
+#banner_image img{
+	
+	width:100%;
+	border-bottom:5px solid #330066;
+}
+#banner_image .block-inner{
+	
+	margin:0;
+}
+
+#content #block-block-5{
+    float: left;
+    width: 50%;	
+	background-color: #330066;
+	color:#ffffff;
+	padding: 5% 0 5% 0;
+	height: 185px;
+}
+
+#content #block-block-5 h2{
+	
+	width:90%;
+	float:left;
+	margin-left:10%;
+	text-transform:uppercase;
+}
+
+#content #block-block-5 ul{
+	
+	width:90%;
+	float:left;
+	margin-left:10%;
+}
+
+
+#content #block-block-6{
+	    float: left;
+    width: 50%;
+	background-color: #330066;
+	color:#ffffff;
+	padding: 5% 0 5% 0;
+	height:185px;
+}
+
+#node-12{
+	
+	    margin: 0 auto;
+    width: 90%;
+}
+
+#block-block-7{
+	
+	background-color: #330066;
+padding:5%;
+color:#ffffff;
+float:left;
+	}
+
+#block-block-8{
+
+	padding:5%;
+    width: 90%;
+	float:left;
+	
+	
+}	
+
+#block-block-9{
+	
+	width: 90%;
+    padding: 5%;
+	background-color: #330066;
+	color:#ffffff;
+	float:left;
+
+}
+
+body.page-node-12 li{
+	
+	list-style-type:none;
+}
+
+
+.page-node-12 .view-content{
+	
+	width:90%;
+	float:left;
+	margin:0% 5% 3% 5%;
+	
+}
+
+#block-views-management-team-block  .views-row-first{
+	
+	margin-left:15%;
+	
+}
+
+#block-views-management-team-block  .views-row-last{
+	
+	margin-right:15%;
+	
+}
+
+
+.view-id-management_team  .view-content .views-row{
+	
+	width:20%;
+	float:left;
+	margin:0% 2.5%;
+	
+}
+
+.view-management-team  ul{
+	
+	padding:0;
+	
+}
+
+.view-management-team  ul li{
+	
+	float:left;
+	    padding-left: 15px;
+	
+}
+
+.page-node-12 .views-row .views-field-field-name{
+	
+	border-bottom:1px solid #000000;
+	text-transform: uppercase;
+	font-weight:bold;
+	
+}
+
+.page-node-12 .views-row .field-content{
+	
+	text-align:center;
+	font-family:font2;
+}
+
+#banner_button{
+	
+	position: absolute;
+    bottom: 60px;
+    z-index: 99999;
+	width:100%;
+	float:left;
+	
+}
+
+
+
+#block-block-10 .block-inner{
+	
+background-color:#333366;
+margin-left:0;
+	opacity:0.9;	
+}
+
+#block-block-11 .block-inner{
+	
+background-color:#333366;	
+margin-left:0;
+	opacity:0.9;
+}
+
+#block-block-12 .block-inner{
+	background-color:#333366;
+	margin-left:0;
+	opacity:0.9;
+	
+}
+
+#block-block-10{
+	
+	width:30.33%;
+	float:left;
+	padding-left:5%;
+}
+
+#block-block-11{
+	
+		width:30.33%;
+	float:left;
+
+}
+
+#block-block-12{
+	
+		width:30.33%;
+	float:left;
+	padding-right:4%;
+}
+
+
+#block-block-10 h3{
+	
+	line-height:3em;
+	color:#ffffff;
+}
+
+#block-block-11 h3{
+	
+	line-height:3em;
+	color:#ffffff;	
+}
+
+#block-block-12 h3{
+	
+	line-height:3em;
+	color:#ffffff;	
+}
+
+#block-block-10 .block-content{
+	
+	    padding-top: 1px;
+    padding-left: 33px;
+}
+
+#block-block-11 .block-content{
+	
+	    padding-top: 1px;
+    padding-left: 33px;
+}
+
+#block-block-12 .block-content{
+	
+	    padding-top: 1px;
+    padding-left: 33px;
+}
+
+.contact_details a{
+	
+	text-decoration:none;
+	color:#993366;
+}
+
